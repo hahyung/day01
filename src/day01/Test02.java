@@ -2,9 +2,9 @@ package day01;
 
 public class Test02 {
 	public static void main(String[] args) {
-		System.out.println("이름 : 임하형");
+		System.out.println("이름 : 홍길동");
 		System.out.println("나이 : 25살");
-		System.out.println("주소 : 은평구");
+		System.out.println("주소 : 종로구");
 		
 		// \n : 엔터와 비슷, \t : 탭크기만큼 왼쪽으로 이동
 		// \" : "(큰따옴표 표현), \\ : (역슬러시 하나 표현)

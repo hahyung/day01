@@ -12,6 +12,5 @@ public class T1 {
 		System.out.println("ÃÑÇÕ°è\t\t\t\t"+"\\"+100000);
 		System.out.println("---------------------------------------");
 		
-		
 	}
 }
